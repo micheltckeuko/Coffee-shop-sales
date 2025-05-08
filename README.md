@@ -2,6 +2,16 @@
 
 ## Project overview
 This project aims to provide actionable insights to the new CEO of Bright Coffee Shop by analyzing historical sales transactions. The analysis focuses on identifying revenue-driving products, peak sales hours, product performance trends, and recommendations to optimize sales strategies.
+![image](https://github.com/user-attachments/assets/6dfc2cb6-218b-4254-bd0a-c0e171c8fb6a)
+![image](https://github.com/user-attachments/assets/b3f67da8-2568-4858-ab1c-8c6c9eec53c9) 
+![image](https://github.com/user-attachments/assets/1f691576-5658-4920-8c79-18f3660dabf2) 
+![image](https://github.com/user-attachments/assets/07015f10-9cc3-4b4f-9bd2-456df7c99fb8)
+
+
+
+
+
+
 
 ### Data sources
 Bright Coffee Shop Sales Data: the dataset used for this analysis is the "Bright Coffee Shop Sales.xlsx" file, containing detailed information about each sale made by customer.
