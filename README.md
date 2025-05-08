@@ -2,24 +2,14 @@
 
 ## Project overview
 This project aims to provide actionable insights to the new CEO of Bright Coffee Shop by analyzing historical sales transactions. The analysis focuses on identifying revenue-driving products, peak sales hours, product performance trends, and recommendations to optimize sales strategies.
-![image](https://github.com/user-attachments/assets/6dfc2cb6-218b-4254-bd0a-c0e171c8fb6a)
-![image](https://github.com/user-attachments/assets/b3f67da8-2568-4858-ab1c-8c6c9eec53c9) 
-![image](https://github.com/user-attachments/assets/1f691576-5658-4920-8c79-18f3660dabf2) 
-![image](https://github.com/user-attachments/assets/07015f10-9cc3-4b4f-9bd2-456df7c99fb8)
-
-
-
-
-
-
 
 ### Data sources
 Bright Coffee Shop Sales Data: the dataset used for this analysis is the "Bright Coffee Shop Sales.xlsx" file, containing detailed information about each sale made by customer.
 
 ### TOOLS
-- EXCELS - Data cleaning
-- SQL SNOWFLAKE- DATA Analysis
-- POWER point  - for presentation
+- EXCELS - Data cleaning.
+- SQL SNOWFLAKE- DATA Analysis.
+- Pivot table for Data visualisation.
 
 ### Data Cleaning/ Preparation
 In the Data preparation phase, we perform the following tasks:
@@ -66,7 +56,13 @@ Based on the analysis, we recommend the following actions:
 - Focus inventory and promotions on Coffee and Tea — the top best.
 - Stock heavily from 7 AM to 11 AM  best time to make good profits.
 - Focus marketing on organic and chocolate product lines to drive revenue.
-  
+
+  ### Excel/ Pivot table: Data visualisation
+  ![image](https://github.com/user-attachments/assets/146979b6-d995-4e94-9934-0e529b6fc545)
+  ![image](https://github.com/user-attachments/assets/b3f67da8-2568-4858-ab1c-8c6c9eec53c9) 
+![image](https://github.com/user-attachments/assets/1f691576-5658-4920-8c79-18f3660dabf2) 
+![image](https://github.com/user-attachments/assets/07015f10-9cc3-4b4f-9bd2-456df7c99fb8)
+
 
 
 
