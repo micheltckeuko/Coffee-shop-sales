@@ -57,7 +57,7 @@ group by all;
 - Brewed  Chai Tea (80K) and Hot Chocolate are strong performers.
 - Coffee leads with the highest item quantity sold ( 89,25k). 
 - Tea follows as the second most sold category (697k).
-- Sales peak between 8 AM and 10 AM, with 10 AM being the top-selling hour.
+- Sales peak: morning time  the top-selling time.
 - A drop occurs after 11 AM, and revenue remains steady but lower from 12 PM to 5 PM.
 - Sustainably Grown Organic Lg(21151.75k) and Dark Chocolate Lg  (21006K)are the top revenue generators.
 ### Recommendations
