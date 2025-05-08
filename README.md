@@ -43,5 +43,25 @@ FROM
 group by all;
 ```
 ### Results/ Findings  
+- Barista Espresso is the top revenue generator (91k).
+- Brewed  Chai Tea (80K) and Hot Chocolate are strong performers.
+- Coffee leads with the highest item quantity sold ( 89,25k). 
+- Tea follows as the second most sold category (697k).
+- Sales peak between 8 AM and 10 AM, with 10 AM being the top-selling hour.
+- A drop occurs after 11 AM, and revenue remains steady but lower from 12 PM to 5 PM.
+- Sustainably Grown Organic Lg(21151.75k) and Dark Chocolate Lg  (21006K)are the top revenue generators.
+### Recommendations
+Based on the analysis, we recommend the following actions:
+- Encourage mix-product to help boost other product.
+- Focus inventory and promotions on Coffee and Tea — the top best.
+- Stock heavily from 7 AM to 11 AM  best time to make good profits.
+- Focus marketing on organic and chocolate product lines to drive revenue.
+  
+
+
+
+
+
+
 
 
