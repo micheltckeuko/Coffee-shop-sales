@@ -6,7 +6,7 @@ This project aims to provide actionable insights to the new CEO of Bright Coffee
 ### Data sources
 Bright Coffee Shop Sales Data: the dataset used for this analysis is the "Bright Coffee Shop Sales.xlsx" file, containing detailed information about each sale made by customer.
 
-### TOOLS
+### Tools
 - EXCELS - Data cleaning.
 - SQL SNOWFLAKE- DATA Analysis.
 - Pivot table for Data visualisation.
