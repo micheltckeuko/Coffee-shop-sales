@@ -54,7 +54,7 @@ group by all;
 Based on the analysis, we recommend the following actions:
 - Encourage mix-product to help boost other product.
 - Focus inventory and promotions on Coffee and Tea — the top best.
-- Stock heavily from 7 AM to 11 AM  best time to make good profits.
+- Stock heavily during morning period  best time to make good profits.
 - Focus marketing on organic and chocolate product lines to drive revenue.
 
   ### Excel/ Pivot table: Data visualisation
