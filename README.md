@@ -25,7 +25,7 @@ Bright Coffee Shop Sales Data: the dataset used for this analysis is the "Bright
 In the Data preparation phase, we perform the following tasks:
 1. convert dataset  from Excel file to Csv file.
 2. Data loading and Inpection.
-3. data cleanin and formating.
+3. data cleaning and formating.
    
 ### Exploratory Data Analysis
 EDA involve exploring the sales data to ascwer key question, such as:
